@@ -17,5 +17,5 @@ Code is coming soon.
 ## Overview
 ![TangentQuant Overview](assets/tangentquant_overrview.png)
 
-## quant comparesion
+## Qualitative comparison
 ![TangentQuant Overview](assets/quant_compare.png)
