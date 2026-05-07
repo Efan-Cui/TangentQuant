@@ -9,7 +9,7 @@ It preserves temporal-difference dynamics across frames while compressing model 
 - Compatible with SmoothQuant and QuaRot for activation quantization
 
 ## Teaser
-![Teaser Figure](assets/teaser.png)
+![Teaser Figure](assets/tanQuant-teaser.png)
 
 ## Overview
 ![TangentQuant Overview](assets/tangentquant_overrview.png)
