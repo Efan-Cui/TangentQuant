@@ -8,6 +8,9 @@ It preserves temporal-difference dynamics across frames while compressing model 
 - Temporal-difference reconstruction for motion consistency
 - Compatible with SmoothQuant and QuaRot for activation quantization
 
+## Planned Release
+Code is coming soon.
+
 ## Teaser
 ![Teaser Figure](assets/tanQuant-teaser.png)
 
